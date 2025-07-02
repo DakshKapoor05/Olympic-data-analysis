@@ -10,7 +10,7 @@ import plotly.figure_factory as ff
 df = preprocessor.preprocessor()
 
 st.sidebar.title('Summer Olympic Analysis')
-st.sidebar.image(r'C:\Users\PC\OneDrive\Desktop\Olympic.png')
+st.sidebar.image('Olympic.png')
 
 user_menu = st.sidebar.radio(
     'Select an option',
