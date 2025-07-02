@@ -4,3 +4,4 @@ numpy>=1.26.0
 matplotlib
 seaborn
 plotly
+scipy==1.13.1
